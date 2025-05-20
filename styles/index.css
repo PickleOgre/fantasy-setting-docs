@@ -2,4 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
-@import 'additional-styles/utils.css'
+@import 'additional-styles/utils.css';
+
+@theme {
+  --color-Base-03: #002b36;
+  --color-Base-02: #073642;
+  --color-Base-01: #586e75;
+  --color-Base-00: #657b83;
+  --color-Base-0: #839496;
+  --color-Base-1: #93a1a1;
+  --color-Base-2: #eee8d5;
+  --color-Base-3: #fdf6e3;
+  --color-Yellow: #b58900;
+  --color-Orange: #cb4b16;
+  --color-Red: #dc322f;
+  --color-Magenta: #d33682;
+  --color-Violet: #6c71c4;
+  --color-Blue: #268bd2;
+  --color-Cyan: #2aa198;
+  --color-Green: #859900;
+}
