@@ -1,9 +1,11 @@
 /** @type {import('tailwindcss').Config} */
+
+
 module.exports = {
   content: ['./components/**/*.tsx', './pages/**/*.tsx'],
   theme: {
     fontFamily: {
-      'sans': '-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji"'
+      'sans': '"Source Sans 3",sans-serif,"Apple Color Emoji","Segoe UI Emoji"'
     },
     extend: {
       colors: {

@@ -17,14 +17,8 @@ const config: DefaultSeoProps = {
     {
       rel: 'icon',
       type: 'image/png',
-      href: '/favicon/favicon-32x32.png',
+      href: '/favicon/tree.png',
       sizes: '32x32'
-    },
-    {
-      rel: 'icon',
-      type: 'image/png',
-      href: '/favicon/favicon-16x16.png',
-      sizes: '16x16'
     },
     {
       rel: "apple-touch-icon",
